@@ -10,7 +10,7 @@ package paquete01;
  *
  * @author reroes
  */
-public class Ejemplo01 {
+public class Ejemplo0111 {
 
     /**
      * @param args the command line arguments
