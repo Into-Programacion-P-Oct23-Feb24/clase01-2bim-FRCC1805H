@@ -14,7 +14,8 @@ public class Ejemplo07 {
         int operacion;
         String mensajeFinal = "";
         for (int i = 1; i <= 50; i++) { // for 01
-            // System.out.printf("Tabla de multiplicar del número %d\n", i);
+            // System.out.printf("Tabla de multiplicar del número %d\n", i); el ciclo for nos va ayudar a iterar de mejor manera para programas largos y el int 
+            //obtener un codigo corto y no confundirnos 
             mensajeFinal = String.format("%sTabla de multiplicar del número %d\n", 
                     mensajeFinal, i);
             for (int contador = 1; contador <= 12; contador++) {
