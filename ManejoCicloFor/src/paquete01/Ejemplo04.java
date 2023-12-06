@@ -13,6 +13,7 @@ public class Ejemplo04 {
 
     /**
      * @param args the command line arguments
+     * en este codigo va decreciendo desde el 20 hasta el cero
      */
     public static void main(String[] args) {
         

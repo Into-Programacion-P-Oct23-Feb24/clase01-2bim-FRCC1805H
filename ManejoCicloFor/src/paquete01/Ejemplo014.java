@@ -15,11 +15,15 @@ public class Ejemplo014 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int
+        int suma = 0;
         for (int i = 20; i >= 0; i-=2) {
-            System.out.printf("%d\n", i);
+            suma = suma + i;
+            
         }
-      
+      for (int i = 20; i >= 0; i-=2) {
+            suma = suma + i;
     }
-    
+    System.out.printf("%d", suma);
+}
+
 }
